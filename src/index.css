@@ -19,3 +19,15 @@ code {
 body {
     background-image: url('./body.jpg');
 }
+:root {
+    --cor1: #1c3c6c;
+    --cor2: #194b94;
+    --cor3: #5436fb;
+    --cor4: #44729c;
+    --cor5: #646aad;
+    --cor6: #6067fb;
+    --cor7: #458ccc;
+    --cor8: #0c858c;
+    --cor9: #b4b4d0;
+    --cor10: #83eef4;
+}
