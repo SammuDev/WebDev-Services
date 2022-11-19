@@ -16,3 +16,6 @@ code {
     margin: 0;
     padding: 0;
 }
+body {
+    background-image: url('./body.jpg');
+}
