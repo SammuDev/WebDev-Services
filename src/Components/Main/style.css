@@ -1,11 +1,20 @@
-.box {
-    border: 1px solid #000;
-    background-color: #fff;
+.main {
+    border: 2px solid #000;
     border-radius: 10px;
     width: 95%;
     margin: 30px auto;
 }
+.carrMain {
+    margin: 0 0 30px;
+}
 .carrMain img {
-    border-radius: 10px;
+    border: 2px solid var(--cor1);
     height: 200px;
+}
+.sectionMain {
+    border: 2px solid var(--cor1);
+    background-color: var(--cor10);
+    border-radius: 10px;
+    margin: 0 0 30px;
+    padding: 10px;
 }
