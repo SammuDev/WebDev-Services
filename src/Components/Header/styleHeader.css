@@ -1,3 +1,7 @@
+.div {
+    border-bottom: 5px solid var(--cor7);
+}
+
 .logo {
     border-radius: 50%;
     height: 100px;
