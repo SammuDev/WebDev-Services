@@ -1,6 +1,11 @@
 .box {
     border: 1px solid #000;
-    /* background-color: #000; */
-    width: 70%;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 95%;
+    margin: 30px auto;
+}
+.carrMain img {
+    border-radius: 10px;
     height: 200px;
 }
