@@ -1,4 +1,4 @@
-import { NavBar } from "./NavBarComponent";
+import { NavBar } from "./Components/NavBar";
 import './style.css';
 
 export const Header = () => (

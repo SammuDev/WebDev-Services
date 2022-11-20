@@ -1,10 +1,10 @@
 import Carousel from 'react-bootstrap/Carousel';
 
-import see from './../images/see.jpg';
-import got from './../images/got.jpg';
-import goku from './../images/goku.jpg';
+import see from './../../images/see.jpg';
+import got from './../../images/got.jpg';
+import goku from './../../images/goku.jpg';
 
-export const Carr = () => (
+export const Carr1 = () => (
     <Carousel className='carrMain'>
         <Carousel.Item>
             <img
