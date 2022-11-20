@@ -2,8 +2,8 @@
 import './styleHome.css';
 import { Header } from './../../Components/Header';
 import { Main } from '../../Components/Main';
-import { Aside } from '../../Components/Main';
-import { Footer } from '../../Components/Main';
+import { Aside } from '../../Components/Aside';
+import { Footer } from '../../Components/Footer';
 
 export const Home = () => (
     <div>
