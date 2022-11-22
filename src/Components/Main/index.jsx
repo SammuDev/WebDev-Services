@@ -15,7 +15,7 @@ export const Main = () => {
             </section>
 
             <section className='sectionMain'>
-                <h1>EMPREENDEDORISMO: , tipos, cenário do Brasil, vantagens e ideias:</h1>
+                <h1><em>EMPREENDEDORISMO DIGITAL:</em></h1>
 
                 <div className='publicity none'>
                     <figure>
@@ -32,20 +32,27 @@ export const Main = () => {
                 </div>
 
                 <div className='text'>
-                    <h2>O QUE É EMPREENDER:</h2>
-                    <p>Resolveu se aventurar no empreendedorismo e quer saber os segredos do sucesso?</p>
+                    <p>Resolveu se aventurar no empreendedorismo e quer saber os segredos do sucesso?
+                        A verdade é que não existem fórmulas prontas, mas alguns atalhos que encurtam
+                        sua caminhada rumo ao sonho de se tornar bem-sucedido nos negócios. Como
+                        principiante, você deve se focar no planejamento e se preparar para os desafios, 
+                        além de assumir uma postura confiante e determinada.</p>
                     
-                    <h2>TIPOS:</h2>
-                    <p>A verdade é que não existem fórmulas prontas, mas alguns atalhos que encurtam sua caminhada rumo ao sonho de se tornar bem-sucedido nos negócios.</p>
-                    
-                    <h2>CENÁRIO DO BRASIL:</h2>
-                    <p>Como principiante, você deve se focar no planejamento e se preparar para os desafios, além de assumir uma postura confiante e determinada.</p>
-                    
-                    <h2>CENÁRIO DO BRASIL:</h2>
                     <p>Aqui, você vai encontrar orientações para facilitar os seus primeiros passos e guiar sua trajetória no empreendedorismo.</p>
                     
-                    <h2>IDEIAS:</h2>
-                    <p>Lembre-se: o começo pode parecer difícil, mas ter a própria empresa vale todo o esforço!</p>
+                    <h2>O QUE É:</h2>
+                    <p>Empreendedorismo digital é o processo de criação de novos negócios utilizando
+                        tecnologia de informação e comunicação. Refere-se à ideia de criar um negócio com a
+                        ajuda da tecnologia digital. O termo é usado em todo o mundo e está ganhando força. No
+                        entanto, não é um conceito novo; os empreendedores sempre usaram a tecnologia para
+                        criar novos negócios.</p>
+
+                    <p>O pensamento empreendedor é uma habilidade essencial na economia atual. O
+                        empreendedorismo digital é uma abordagem para criar novos negócios usando a
+                        tecnologia digital. Isso inclui aplicativos, mídias sociais e web design. Também
+                        inclui marketing online e crowdfunding, entre outras técnicas. O empreendedorismo
+                        digital pode ser uma forma de encontrar soluções para questões econômicas globais,
+                        como desemprego e desigualdade de renda, por meio da inovação e do empreendedorismo.</p>
                 </div>
             </section>
         </main>

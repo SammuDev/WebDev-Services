@@ -54,6 +54,10 @@ hr {
 }
 
 /* (======================) */
+.sectionMain {
+    padding: 30px;
+    text-indent: 10px;
+}
 .sectionMain > p {
     text-indent: 10px;
 }
@@ -64,9 +68,6 @@ hr {
 .text p {
     text-align: justify;
     text-indent: 10px;
-}
-.text h2 {
-    margin-left: 20px;
 }
 @media screen and (min-width: 768px) {
     .main {
