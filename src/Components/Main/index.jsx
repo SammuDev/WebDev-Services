@@ -4,6 +4,14 @@ import { Carr2 } from './Components/Carr2';
 import amazon1 from './images-Ex-publicidades/amazon3.png';
 import amazon2 from './images-Ex-publicidades/amazon4.png';
 
+import celular from './images-slide/celular.png';
+import emp3 from './images-slide/emp3.png';
+import dados from './images-slide/dados.png';
+import mao from './images-slide/aperto-de-mao.png';
+import emp7 from './images-slide/emp7.png';
+import emp2 from './images-slide/emp2.png';
+import emp1 from './images-slide/emp1.png';
+
 import './style.css';
 
 export const Main = () => {
@@ -39,6 +47,10 @@ export const Main = () => {
                         digitalmente, como iniciar um negócio online e quais os resultados que você pode
                         obter.</p>
 
+                    <figure>
+                        <img src={celular} alt="Imagem representativa de um celular" />
+                    </figure>
+
                     <h2>O que é Empreendedorismo Digital?</h2>
 
                     <p>O empreendedorismo digital é uma forma de empreender usando as ferramentas da internet.
@@ -54,6 +66,10 @@ export const Main = () => {
                         visibilidade para o seu negócio até aumentar as vendas. No entanto, o principal
                         objetivo de muitos empreendedores digitais é criar uma renda passiva, ou seja, uma
                         fonte de renda que não requer muito trabalho para manter.</p>
+
+                    <figure>
+                        <img src={emp3} alt="" />
+                    </figure>
 
                     <h2>Como iniciar um Empreendimento Digital?</h2>
 
@@ -77,6 +93,10 @@ export const Main = () => {
                         profissionais nas principais redes (Facebook, Instagram, You Tube, Linkedin)</li>
                     </ol>
 
+                    <figure>
+                        <img src={dados} alt="" />
+                    </figure>
+
                     <h2>Quais os principais resultados que podemos obter com o Empreendedorismo Digital?</h2>
 
                     <p>O empreendedorismo digital pode nos ajudar a alcançar uma série de objetivos,
@@ -90,6 +110,10 @@ export const Main = () => {
                         <li>- Desenvolver novos produtos e serviços;</li>
                         <li>- Criar um negócio escalável.</li>
                     </ul>
+
+                    <figure>
+                        <img src={mao} alt="" />
+                    </figure>
 
                     <h2>Exemplos de Empreendedorismo Digital</h2>
 
@@ -113,6 +137,10 @@ export const Main = () => {
                         <li>- Blogs: sites que disponibilizam conteúdo sobre divers.</li>
                     </ul>
 
+                    <figure>
+                        <img src={emp7} alt="" />
+                    </figure>
+
                     <h2>Dicas para ter sucesso no Empreendedorismo Digital</h2>
 
                     <p>O empreendedorismo digital está em alta. Se você quer iniciar um negócio
@@ -133,6 +161,10 @@ export const Main = () => {
                         <li>Faça um bom marketing para promover seu negócio.</li>
                     </ol>
 
+                    <figure>
+                        <img src={emp2} alt="" />
+                    </figure>
+
                     <h2>Conclusão</h2>
 
                     <p>Não há dúvidas de que o empreendedorismo digital está em alta. Com o mundo cada vez
@@ -149,6 +181,10 @@ export const Main = () => {
 
                     <p>Uma vez que você domine esses conceitos básicos do empreendedorismo digital, poderá
                         iniciar seu negócio com mais confiança e obter os melhores resultados.</p>
+
+                    <figure>
+                        <img src={emp1} alt="" />
+                    </figure>
                 </div>
             </section>
         </main>

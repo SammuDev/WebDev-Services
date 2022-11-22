@@ -1,15 +1,15 @@
 import Carousel from 'react-bootstrap/Carousel';
 
-import see from './../../images/see.jpg';
-import got from './../../images/got.jpg';
-import goku from './../../images/goku.jpg';
+import dados1 from './../../images-slide/dados.png';
+import dados2 from './../../images-slide/dados2.png';
+import dados3 from './../../images-slide/emp4.png';
 
 export const Carr1 = () => (
     <Carousel className='carrMain'>
         <Carousel.Item>
             <img
             className="d-block w-100"
-            src={see}
+            src={dados1}
             alt="First slide"
             />
             <Carousel.Caption>
@@ -21,7 +21,7 @@ export const Carr1 = () => (
         <Carousel.Item>
             <img
             className="d-block w-100"
-            src={got}
+            src={dados2}
             alt="Second slide"
             />
 
@@ -34,7 +34,7 @@ export const Carr1 = () => (
         <Carousel.Item>
             <img
             className="d-block w-100"
-            src={goku}
+            src={dados3}
             alt="Third slide"
             />
 
