@@ -1,16 +1,15 @@
 footer {
-    background-color: var(--cor3);
+    background-color: var(--cor2);
     border-top: 3px solid var(--cor9);
     height: 200px;
     text-align: center;
 }
 .pessoal {
     color: #fff;
-    background-color: var(--cor2);
+    background-color: var(--cor1);
     height: 70%;
     line-height: 100px;
 }
 .copy {
-    /* border-top: 3px solid var(--cor9); */
     color: #fff;
 }
