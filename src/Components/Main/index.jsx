@@ -1,6 +1,9 @@
 import { Carr1 } from './Components/Carr1';
 import { Carr2 } from './Components/Carr2';
 
+import amazon1 from './images-Ex-publicidades/amazon-publicity.png';
+import amazon2 from './images-Ex-publicidades/amazon-publicity2.png';
+
 import './style.css';
 
 export const Main = () => {
@@ -14,10 +17,18 @@ export const Main = () => {
             <section className='sectionMain'>
                 <h1>EMPREENDEDORISMO: , tipos, cenário do Brasil, vantagens e ideias:</h1>
 
-                <div className='publicity'>
+                <div className='publicity none'>
                     <figure>
                         <Carr2/>
                     </figure>
+                </div>
+
+                <div className='publicity2 none2'>
+                    <figure>
+                        <img src={amazon1} className='ad-left' alt="Primeiro Comercial" />
+                        <img src={amazon2} className='ad-right' alt="Segundo Comercial" />
+                    </figure>
+                    <hr />
                 </div>
 
                 <div className='text'>

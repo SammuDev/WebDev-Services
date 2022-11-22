@@ -19,18 +19,47 @@
     margin: 0 0 30px;
     padding: 10px;
 }
+
+/* (======================) */
 .publicity {
     background-color: #fff;
 }
-.publicity img {
+.publicity img, .publicity2 img {
     border: 2px solid var(--cor1);
     height: 200px;
 }
+.none {
+    display: block;
+}
+
+/* (======================) */
+.publicity2 {
+    background-color: var(--cor7);
+}
+.none2 {
+    display: none;
+}
+.ad-left, .ad-right {
+    width: 46%;
+    margin: 0 10px;
+}
+.ad-left {
+    float: left;
+}
+.ad-right {
+    float: right;
+}
+hr {
+    clear: both;
+}
+
+/* (======================) */
 .sectionMain > p {
     text-indent: 10px;
 }
 .text {
-    margin: 30px 0;
+    /* margin: 30px 0; */
+    clear: both;
 }
 .text p {
     text-align: justify;
@@ -48,4 +77,14 @@
         border: 2px solid var(--cor1);
         height: 400px;
     }
+    .none {
+        display: none;
+    }
+    .none2 {
+        display: block;
+    }
+    /* .text {
+        margin: 50px 0;
+        clear: both;
+    } */
 }
