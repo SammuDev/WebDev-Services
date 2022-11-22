@@ -65,6 +65,9 @@ hr {
     text-align: justify;
     text-indent: 10px;
 }
+.text h2 {
+    margin-left: 20px;
+}
 @media screen and (min-width: 768px) {
     .main {
         /* border: 2px solid #000; */

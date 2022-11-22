@@ -1,8 +1,8 @@
 import { Carr1 } from './Components/Carr1';
 import { Carr2 } from './Components/Carr2';
 
-import amazon1 from './images-Ex-publicidades/amazon-publicity.png';
-import amazon2 from './images-Ex-publicidades/amazon-publicity2.png';
+import amazon1 from './images-Ex-publicidades/amazon3.png';
+import amazon2 from './images-Ex-publicidades/amazon4.png';
 
 import './style.css';
 
