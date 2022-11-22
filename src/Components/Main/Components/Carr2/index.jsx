@@ -4,7 +4,7 @@ import amazon1 from "./../../images-Ex-publicidades/amazon1.jpg";
 import amazon2 from "./../../images-Ex-publicidades/amazon2.jpg";
 
 export const Carr2 = () => (
-    <Carousel className='carrMain'>
+    <Carousel className='publicity'>
         <Carousel.Item>
             <img
             className="d-block w-100"
