@@ -2,7 +2,7 @@ import { NavBar } from "./Components/NavBar";
 import './style.css';
 
 export const Header = () => (
-    <div>
+    <header>
         <NavBar/>
-    </div>
+    </header>
 )

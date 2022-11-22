@@ -9,7 +9,7 @@ import './style.css';
 export const Main = () => {
 
     return (
-        <div className="main">
+        <main className="main">
             <section>
                 <Carr1/>
             </section>
@@ -48,6 +48,6 @@ export const Main = () => {
                     <p>Lembre-se: o começo pode parecer difícil, mas ter a própria empresa vale todo o esforço!</p>
                 </div>
             </section>
-        </div>
+        </main>
     )
 }

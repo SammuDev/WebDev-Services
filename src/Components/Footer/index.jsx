@@ -1,5 +1,11 @@
 import './style.css';
 
 export const Footer = () => (
-    <div></div>
+    <footer>
+        <div className='pessoal'>
+            <p>TEXTO</p>
+        </div>
+
+        <p className='copy'>TEXTO</p>
+    </footer>
 )
